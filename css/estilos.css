@@ -30,3 +30,10 @@ body {
     font-weight: normal;
     font-size: 0.8em;
 }
+
+#container #footer{
+    background: brown;
+    color: white;
+    font-size: bold;
+    text-align: center;
+}
