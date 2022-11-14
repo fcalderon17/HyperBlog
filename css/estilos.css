@@ -40,3 +40,9 @@ body {
     width: 20px;
     vertical-align: middle;
 }
+#container #footer{
+    background: brown;
+    color: white;
+    font-size: bold;
+    text-align: center;
+}
